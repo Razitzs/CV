@@ -1,0 +1,103 @@
+body
+{
+    margin: 0px;
+    background-color: black;
+    font-family: "courier prime";
+}
+hr
+{
+    border-color: black;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 15px;
+
+}
+img
+{
+    height: 250px;
+}
+h2
+{
+    color: black;
+    font-family:"share tech mono";
+}
+h1
+{
+    font-size: 40px;
+}
+p
+{
+    color: white;
+}
+li
+{
+    color: white;
+}
+td
+{
+    color: black;
+    font-family: "courier prime";
+}
+a
+{
+    color:gold;
+}
+
+.UNAM:hover
+{
+    color: blue;
+    
+}
+
+.heading
+{
+    padding-left:50px;
+    background-color: black;
+    margin: 0px;
+}
+
+.middle
+{
+    
+    text-align: center;
+    padding-left:300px;
+    padding-bottom: 40px;
+    background-color: white;
+}
+
+.buttom
+{
+    padding-top: 10px;
+    padding-left:100px;
+    padding-bottom: 100px;
+    background-color: black;
+}
+
+.phct
+{
+    position: relative;
+    right: -260px;
+}
+
+.hacker
+{
+    margin: 0 auto;
+    position: relative;
+    right: -455px;
+}
+
+.skills
+{
+    padding-left: 120px;
+}
+
+.experience
+{
+    padding-left: 130px;
+}
+
+.contact
+{
+    padding-left: 510px;
+    color: white;
+}
